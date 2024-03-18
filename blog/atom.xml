@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-site.example.com/GEE-Cryengine-Doc/blog</id>
+    <title>Cryengine Community Documentation Blog</title>
+    <updated>2024-03-15T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-site.example.com/GEE-Cryengine-Doc/blog"/>
+    <subtitle>Cryengine Community Documentation Blog</subtitle>
+    <icon>https://your-docusaurus-site.example.com/GEE-Cryengine-Doc/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome To CryDoc]]></title>
+        <id>https://your-docusaurus-site.example.com/GEE-Cryengine-Doc/blog/mdx-blog-post</id>
+        <link href="https://your-docusaurus-site.example.com/GEE-Cryengine-Doc/blog/mdx-blog-post"/>
+        <updated>2024-03-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[CryDoc Maintained And Written By The Community For The Community]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="crydoc-maintained-and-written-by-the-community-for-the-community-"><span style="background-color:#ff5733;border-radius:4px;color:#fff;padding:0.2rem 0.5rem;font-weight:bold">CryDoc Maintained And Written By The Community For The Community </span><a href="https://your-docusaurus-site.example.com/GEE-Cryengine-Doc/blog/mdx-blog-post#crydoc-maintained-and-written-by-the-community-for-the-community-" class="hash-link" aria-label="Direct link to crydoc-maintained-and-written-by-the-community-for-the-community-" title="Direct link to crydoc-maintained-and-written-by-the-community-for-the-community-">​</a></h2>]]></content>
+        <author>
+            <name>Parsa Dehghani</name>
+            <uri>https://ParsaDehghani.com</uri>
+        </author>
+        <category label="CryDoc" term="CryDoc"/>
+        <category label="News" term="News"/>
+        <category label="Cryengine" term="Cryengine"/>
+        <category label="CryengineDoc" term="CryengineDoc"/>
+        <category label="ParsaDehghani" term="ParsaDehghani"/>
+    </entry>
+</feed>

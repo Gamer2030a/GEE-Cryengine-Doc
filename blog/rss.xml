@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Cryengine Community Documentation Blog</title>
+        <link>https://your-docusaurus-site.example.com/GEE-Cryengine-Doc/blog</link>
+        <description>Cryengine Community Documentation Blog</description>
+        <lastBuildDate>Fri, 15 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome To CryDoc]]></title>
+            <link>https://your-docusaurus-site.example.com/GEE-Cryengine-Doc/blog/mdx-blog-post</link>
+            <guid>https://your-docusaurus-site.example.com/GEE-Cryengine-Doc/blog/mdx-blog-post</guid>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[CryDoc Maintained And Written By The Community For The Community]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="crydoc-maintained-and-written-by-the-community-for-the-community-"><span style="background-color:#ff5733;border-radius:4px;color:#fff;padding:0.2rem 0.5rem;font-weight:bold">CryDoc Maintained And Written By The Community For The Community </span><a href="https://your-docusaurus-site.example.com/GEE-Cryengine-Doc/blog/mdx-blog-post#crydoc-maintained-and-written-by-the-community-for-the-community-" class="hash-link" aria-label="Direct link to crydoc-maintained-and-written-by-the-community-for-the-community-" title="Direct link to crydoc-maintained-and-written-by-the-community-for-the-community-">​</a></h2>]]></content:encoded>
+            <category>CryDoc</category>
+            <category>News</category>
+            <category>Cryengine</category>
+            <category>CryengineDoc</category>
+            <category>ParsaDehghani</category>
+        </item>
+    </channel>
+</rss>

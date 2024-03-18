@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgee_cryengine_DOC=self.webpackChunkgee_cryengine_DOC||[]).push([[9661],{1892:(e,r,s)=>{s.r(r),s.d(r,{default:()=>l});s(7294);var n=s(512),c=s(1944),u=s(5281),a=s(8790),t=s(6040),i=s(5893);function l(e){return(0,i.jsx)(c.FG,{className:(0,n.Z)(u.k.wrapper.docsPages),children:(0,i.jsx)(t.Z,{children:(0,a.H)(e.route.routes)})})}}}]);
