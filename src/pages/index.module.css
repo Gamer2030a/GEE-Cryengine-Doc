@@ -1,0 +1,25 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+ #Cryengine_Hero_Video {
+   position: fixed;
+   right: 0;
+   bottom: 0;
+   min-width: 100%;
+   min-height: 100%;
+ }
+
+.heroBanner {
+  position: fixed;
+  text-align: center;
+  padding: 0;
+  background-color: #202020;
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
