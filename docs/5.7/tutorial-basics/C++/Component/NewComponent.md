@@ -62,4 +62,4 @@ this function allows users to hadle sent events.
 virtual void ProcessEvent();
 ```
 
-[this](/docs/5.7/C++%20API/Component/ComponentTemplate) is the full list of the functions from IEntityComponent that we can use for our component.  
+[this](/docs/5.7/C++%20API/Component/ComponentTemplate) is the full list of the functions from IEntityComponent that we can use for our component.
