@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 import Tag from '@site/src/components/Tag';
-import DocusaurusImageUrl from '@site/static/img/ime.png';
+import DocusaurusImageUrl from '@site/static/img/5.7/ime.png';
 
 # Scaleform IMEE Support
 :::info
